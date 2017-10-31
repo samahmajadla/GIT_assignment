@@ -1,4 +1,4 @@
-This is a new first line inserted by Samah.
+This is a new first line inserUSERAted by Samah.
 Matt is adding nifty new content!
 This is the initial contents
 of the first file that
